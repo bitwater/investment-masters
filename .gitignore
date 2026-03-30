@@ -2,3 +2,4 @@ tmp
 
 .claude/
 .DS_Store
+history/*
